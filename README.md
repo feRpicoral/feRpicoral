@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, World 👋
+
+- 💻 Full stack web developer
+- ❤️ Next, React & Typescript
+- 👀 Always looking for something new to learn/work on
+- 🌐 [fernandopicoral.com](https://fernandopicoral.com)
+- ✉️ [fernando.picoral@colorado.edu](mailto:fernando.picoral@colorado.edu)
 
 <!--
 **feRpicoral/feRpicoral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
