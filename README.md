@@ -3,6 +3,8 @@
 - 💻 Full stack web developer
 - ❤️ Next, React & Typescript
 - 👀 Always looking for something new to learn/work on
+- 🏫 University of Colorado, Boulder (Computer Science, BS)
+- 📍Porto Alegre, Brazil 
 - 🌐 [fernandopicoral.com](https://fernandopicoral.com)
 - ✉️ [fernando.picoral@colorado.edu](mailto:fernando.picoral@colorado.edu)
 
