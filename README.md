@@ -6,5 +6,5 @@
 - 👀 Always looking for something new to learn/work on
 - 🎓 University of Colorado, Boulder (Computer Science, BS) @ 2026
 - 📍Porto Alegre, Brazil 
-- 🌐 [fernandopicoral.com](https://fernandopicoral.com)
+- 🌐 [picoral.me](https://picoral.me)
 - ✉️ [fernando.picoral@colorado.edu](mailto:fernando.picoral@colorado.edu)
