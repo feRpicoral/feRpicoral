@@ -1,16 +1,19 @@
 ## Hi, I'm Fernando 👋
 
-Full-stack engineer building AI-powered web and mobile apps.  
+Full-stack engineer building production AI systems — multi-agent orchestration, real-time voice agents, and RAG over private data.  
 3x Google SWE Intern · CS @ University of Colorado Boulder ('26)
+
+[**picoral.me**](https://picoral.me) — selected work and case studies
 
 ---
 
 ### What I build
 
-- **RAG systems** over private knowledge bases — PDF/doc ingestion, embeddings, inline citations
-- **Next.js + TypeScript SaaS MVPs** with auth, billing, and LLM integration
+- **Multi-agent systems** — LangGraph orchestration, tool use, human-in-the-loop workflows
+- **Real-time voice agents** — low-latency speech pipelines (STT, LLM, TTS) for inbound/outbound calls
+- **Agentic RAG** over private knowledge bases — doc ingestion, embeddings, precise inline citations
 - **LLM-powered internal tools** — transcription, workflow automation, structured extraction
-- **Data-heavy product UIs** with complex visualization and virtualization
+- **Production B2B SaaS** in Next.js + TypeScript — multi-tenant isolation, billing, observability
 
 ---
 
@@ -39,6 +42,7 @@ Full-stack engineer building AI-powered web and mobile apps.
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Infra**  
